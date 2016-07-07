@@ -1,0 +1,6 @@
+E:\MyCode\My TFS Project\SelfStudyCode\SelfStudyCode\LearnCoreCSharp\bin\Debug\LearnCoreCSharp.exe.config
+E:\MyCode\My TFS Project\SelfStudyCode\SelfStudyCode\LearnCoreCSharp\bin\Debug\LearnCoreCSharp.exe
+E:\MyCode\My TFS Project\SelfStudyCode\SelfStudyCode\LearnCoreCSharp\bin\Debug\LearnCoreCSharp.pdb
+E:\MyCode\My TFS Project\SelfStudyCode\SelfStudyCode\LearnCoreCSharp\obj\Debug\LearnCoreCSharp.exe
+E:\MyCode\My TFS Project\SelfStudyCode\SelfStudyCode\LearnCoreCSharp\obj\Debug\LearnCoreCSharp.pdb
+E:\MyCode\My TFS Project\SelfStudyCode\SelfStudyCode\LearnCoreCSharp\obj\Debug\LearnCoreCSharp.csprojResolveAssemblyReference.cache
